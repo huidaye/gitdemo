@@ -12,5 +12,7 @@ public class GitDemo {
         System.out.println("新增了一个tag！！");
 
         System.out.println("shell push test!");
+
+        System.out.println("push to tag V1.1!");
     }
 }
